@@ -1,0 +1,8 @@
+The following files are from the Naive Bayes lesson:
+
+    studentMain.py
+    class_vis.py
+    prep_terrain_data.py
+    ClassifyNB.py
+
+Haven't tested if this runs stand-alone outside of the Udacity learning environment...
